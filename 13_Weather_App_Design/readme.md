@@ -10,3 +10,4 @@ Read more at https://developer.android.com/training/constraint-layout
 
 And the snapshot of constraint-layout is:
 
+https://github.com/ppyJacK/Android_intro/blob/master/13_Weather_App_Design/constraint-layout.png
